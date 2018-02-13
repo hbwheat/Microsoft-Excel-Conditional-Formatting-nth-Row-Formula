@@ -88,7 +88,8 @@ Some background of the modulus operator is very handy.
     4th row:
     =MOD(ROW(),4)=0
     4 row mod 4 = 0
-    Each time the 4th row is addressed 4 modulus 4 will equal 0. We want a sequence to repeat every 4th row. This is our starting point. When 4 mod 4 is equal to 0 when know we are on the fourth row. 
+    Each time the 4th row is addressed, 4 modulus 4 will equal 0. We want a sequence to repeat every 4th row. 
+    This is our starting point. When 4 mod 4 is equal to 0, then know we are on the fourth row. 
     row 4 mod 4 = 0
     row 8 mod 4 = 0
     row 12 mod 4 = 0
